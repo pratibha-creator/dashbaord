@@ -13,7 +13,6 @@ body {
   flex-direction: column;
 }
 
-/* Header */
 header {
   background: #1a1a2e;
   color: #fff;
@@ -35,7 +34,6 @@ header span {
   opacity: 0.6;
 }
 
-/* Main content */
 main {
   flex: 1;
   display: flex;
@@ -90,7 +88,6 @@ main {
   background: #4338ca;
 }
 
-/* Footer */
 footer {
   text-align: center;
   padding: 16px;
